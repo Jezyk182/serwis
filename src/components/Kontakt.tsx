@@ -3,7 +3,6 @@ import { MailFill } from "../icons/MailFill";
 import { MapMarker } from "../icons/MapMarker";
 import { Clock } from "../icons/Clock";
 import CustomMap from "./CustomMap";
-import.meta.env.VITE_MAP_KEY
 
 const Kontakt = () => {
     return ( 
