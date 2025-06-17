@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+@import "tailwindcss";
+@plugin "tailwind-hamburgers";
+
+* {
+  font-family: "Montserrat", sans-serif;
+}
+
+@theme {
+  --color-primary: #f0f0f0;
+  --color-secText: #0a2ea3;
+  --color-second: #113bc2;
+}
+
+*{
+  scroll-behavior: smooth;
+}
+
+
+.app {
+  display: flex;
+  padding: 5rem;
+  justify-content: space-evenly;
+  font-family: Verdana, Geneva, Tahoma, sans-serif
+}
+
+.map-container {
+  max-height: 500px;
+  max-width: 500px;
+  border: 2px solid black;
+  border-radius: 20px;
+}
