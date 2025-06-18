@@ -14,7 +14,7 @@ const Doswiadczenie = () => {
                 <div className="w-full md:w-1/2 p-4">
                     <h3 className="font-semibold text-xl mt-4 text-secText">Patryk Plekaniec</h3>
                     <p className="text-lg mt-2">
-                        Stawiam pierwsze kroki jako serwisant komputerowy. Mam solidne podstawy z technikum informatycznego i praktyczne doświadczenie zdobyte podczas praktyk. Z zaangażowaniem pomagam przy naprawach sprzętu i rozwijam swoje umiejętności, szczególnie w serwisie komputerów oraz tworzeniu stron internetowych. Moim celem jest oferowanie rzetelnej pomocy technicznej oraz wsparcia w tworzeniu stron dla klientów.
+                        Stawiam pierwsze kroki jako serwisant komputerowy. Otrzymałem dyplom technika informatyka na poziomie 98%. Mam solidne podstawy z technikum informatycznego i praktyczne doświadczenie zdobyte podczas praktyk. Z zaangażowaniem pomagam przy naprawach sprzętu i rozwijam swoje umiejętności, szczególnie w serwisie komputerów oraz tworzeniu stron internetowych. Moim celem jest oferowanie rzetelnej pomocy technicznej oraz wsparcia w tworzeniu stron dla klientów.
                     </p>
                     <div className="bg-blue-50 rounded-2xl px-6 py-8 m-auto mt-10">
                         <h3 className="text-secText font-semibold text-xl">Doświadczenie i kwalifikacje</h3>
@@ -23,7 +23,7 @@ const Doswiadczenie = () => {
                                 <GraduationCap /> Ukończona szkoła techniczna w Żorach o profilu informatycznym
                             </li>
                             <li className="flex gap-3 mt-2">
-                                <Certificate /> Dyplom technika informatyka
+                                <Certificate /> Dyplom technika informatyka (98%)
                             </li>
                             <li className="flex gap-3 mt-2">
                                 <Briefcase /> 2-miesięczne praktyki w serwisie komputerowym

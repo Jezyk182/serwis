@@ -9,7 +9,7 @@ const Hero = () => {
             <div className="bg-[#000000BF] min-h-full absolute top-0 left-0 w-full">
                 <div className="flex flex-col absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 gap-12">
                     <div className="flex flex-col gap-6">
-                        <h1 className="uppercase text-white text-3xl sm:text-4xl md:text-5xl font-bold position text-center">Mobilny seriwis komputerowy</h1>
+                        <h1 className="uppercase text-white text-3xl sm:text-4xl md:text-5xl font-bold position text-center">Mobilny serwis komputerowy</h1>
                         <p className="text-white text-lg sm:text-xl uppercase text-center">Naprawy, modernizacje i czyszczenie komputerów oraz laptopów z opcją dojazdu do klienta</p>
                     </div>
                     <div className="flex flex-col text-center gap-2.5">

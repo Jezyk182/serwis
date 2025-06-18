@@ -4,6 +4,7 @@ import Oferty from './components/Oferty'
 import Doswiadczenie from './components/Doswiadczenie'
 import Cennik from './components/Cennik'
 import Kontakt from './components/Kontakt'
+import Footer from './components/Footer'
 
 function App() {
 
@@ -15,6 +16,7 @@ function App() {
       <Doswiadczenie />
       <Cennik />
       <Kontakt />
+      <Footer />
     </div>
   )
 }

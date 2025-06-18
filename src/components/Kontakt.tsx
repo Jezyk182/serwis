@@ -5,6 +5,8 @@ import { Clock } from "../icons/Clock";
 import CustomMap from "./CustomMap";
 
 const Kontakt = () => {
+
+
     return ( 
         <div id="kontakt" className="bg-second text-white py-24 m-auto">
             <h2 className="uppercase font-semibold text-2xl text-center">Skontaktuj się ze mną</h2>
