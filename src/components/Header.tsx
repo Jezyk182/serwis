@@ -35,7 +35,7 @@ const Header = () => {
             <nav>
                 <div className="container m-auto flex justify-between items-center px-4 py-3 h-full">
                     <div>
-                        <a href="#" className="text-2xl uppercase font-bold">Logo</a>
+                        <a href="#" className="text-2xl uppercase font-bold"><img src="./logo.svg" alt="Logo strony" className='w-12'/></a>
                     </div>
                     <div className='md:hidden'>
                         <button
