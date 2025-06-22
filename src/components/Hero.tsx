@@ -15,7 +15,11 @@ const Hero = () => {
                     <div className="flex flex-col text-center gap-2.5">
                         <div className="flex justify-center items-center gap-2.5">
                             <Telephone />
-                            <p className="text-white text-lg sm:text-xl">+48 797 692 516</p>
+                            <p className="text-white text-lg sm:text-xl">
+                                <a href="tel:+48797692516">
+                                    +48 797 692 516
+                                </a>
+                            </p>
                         </div>
                         <div className="flex justify-center items-center gap-2.5">
                             <Email />

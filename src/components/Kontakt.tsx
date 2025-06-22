@@ -17,7 +17,9 @@ const Kontakt = () => {
                         <PhoneFill />
                         <div>
                             <p className="text-lg font-medium">Telefon:</p>
-                            <p className="text-lg">+48 797 692 516</p>
+                            <a href="tel:+48797692516" className="text-lg">
+                                +48 797 692 516
+                            </a>
                         </div>
                     </div>
                     <div className="flex items-center gap-4 mt-8">
@@ -38,7 +40,7 @@ const Kontakt = () => {
                         <Clock />
                         <div>
                             <p className="text-lg font-medium">Godziny pracy:</p>
-                            <a href="mailto:plekus73@gmail.com" className="text-lg">Pon-Pt: 11:00 - 20:00 <br /> Sob: 11:00 - 18:00</a>
+                            <a href="mailto:plekus73@gmail.com" className="text-lg">Pon-Pt: 11:00 - 20:00 <br /> Sob-Nd: 11:00 - 18:00</a>
                         </div>
                     </div>
                 </div>
