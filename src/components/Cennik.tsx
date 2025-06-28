@@ -34,7 +34,7 @@ const Cennik = () => {
                                     Naprawa laptopa / komputera (odliczając części)
                                 </td>
                                 <td className="py-3 px-4 text-right">
-                                    od <span className="whitespace-nowrap">500 zł *</span>
+                                    od <span className="whitespace-nowrap">100 zł *</span>
                                 </td>
                             </tr>
                             <tr>
